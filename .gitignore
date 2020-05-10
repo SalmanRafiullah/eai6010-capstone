@@ -1,6 +1,7 @@
 #########
 # Backend
 #########
+.DS_Store
 # Python
 __pycache__/
 *.py[cod]
@@ -10,6 +11,7 @@ __pycache__/
 python/
 env/
 build/
+project_data/
 develop-eggs/
 dist/
 downloads/
